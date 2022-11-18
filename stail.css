@@ -1,0 +1,29 @@
+td{
+    border: 3px solid 
+    #DEF0FA;
+}
+table{
+border-collapse: collapse;
+}
+td{
+padding: 12px;
+}
+
+caption{
+margin: bottom 1px;
+padding: 10px;
+}
+
+thead{
+background-color: 
+#B9EBE3;
+}
+tbody{
+background-color: 
+#B9EBE3;
+}
+
+caption{
+
+    background-color: #FACD00;
+}
